@@ -7,4 +7,4 @@ A grid consists of columns, rows and width. So we'll have to calculate and repli
 
 | Column| | |
 | --- | --- | --- |
-| Row | 'Module' | |
+| Row | `Module` | |
