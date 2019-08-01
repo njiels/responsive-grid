@@ -5,5 +5,5 @@ For several project I've designed grids, because they look cool. However, it alw
 ## Anatomy of a grid
 A grid consists of columns, rows and width. So we'll have to calculate and replicate this in order to fill the screen.
 
-|Column|||
-|Row|'Module'||
+| Column| | |
+| Row | 'Module' | |
